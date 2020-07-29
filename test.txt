@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 3479-F368
+
+ R‚pertoire de C:\Users\Hp\Desktop\nouveau projet
+
+29/07/2020  16:37    <DIR>          .
+29/07/2020  16:37    <DIR>          ..
+29/07/2020  16:37                 0 test.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  71ÿ915ÿ077ÿ632 octets libres
